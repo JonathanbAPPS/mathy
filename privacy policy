@@ -1,1 +1,202 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Datenschutzerklärung – mathy</title>
+<meta name="description" content="Datenschutzerklärung der iPhone-App mathy.">
+<style>
+:root{color-scheme:light dark;--grund:#ECECF2;--flaeche:#FFF;--flaeche2:#DBDBE4;
+--text:#0B0B0F;--text2:#6B6B78;--rand:rgba(0,0,0,.09)}
+@media (prefers-color-scheme:dark){:root{--grund:#0B0B0F;--flaeche:#17171E;
+--flaeche2:#22222B;--text:#FFF;--text2:#8D8D9A;--rand:rgba(255,255,255,.08)}}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;padding:0 20px 80px;background:var(--grund);color:var(--text);
+font:17px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+-webkit-font-smoothing:antialiased}
+.blatt{max-width:44rem;margin:0 auto}
+.zurueck{display:inline-block;margin:40px 0 0;color:var(--text2);
+font-weight:600;text-decoration:none;font-size:.95rem}
+.zurueck:hover{text-decoration:underline}
+h1{font-size:2rem;font-weight:800;letter-spacing:-.025em;margin:16px 0 0;
+overflow-wrap:break-word;hyphens:auto}
+.stand{color:var(--text2);font-size:.95rem;margin:6px 0 0}
+h2{font-size:1.2rem;font-weight:700;margin:44px 0 14px;letter-spacing:-.01em}
+p,li{margin:0 0 14px}
+a{color:inherit;text-underline-offset:3px}
+.inhalt{background:var(--flaeche);border:1px solid var(--rand);border-radius:14px;
+padding:18px 24px;margin:32px 0 0}
+.inhalt ol{margin:0;padding-left:1.4em;columns:2;column-gap:28px}
+.inhalt li{margin:0 0 4px;font-size:.95rem}
+.anschrift{background:var(--flaeche2);border-radius:12px;padding:16px 20px;
+margin:0 0 14px;line-height:1.6}
+.offen{background:#FFD43B;color:#0B0B0F;border-radius:4px;padding:1px 6px;font-weight:700}
+footer{margin-top:64px;padding-top:24px;border-top:1px solid var(--rand);
+color:var(--text2);font-size:.95rem;display:flex;gap:24px;flex-wrap:wrap}
+@media (max-width:480px){body{font-size:16px;padding:0 16px 64px}
+h1{font-size:1.7rem}h2{font-size:1.1rem}.inhalt ol{columns:1}}
+</style>
+</head>
+<body>
+<div class="blatt">
 
+<a class="zurueck" href="../">← Support</a>
+
+<h1>Datenschutz&shy;erklärung</h1>
+<p class="stand">mathy · Stand: 7. Oktober 2026</p>
+
+<nav class="inhalt" aria-label="Inhalt">
+<ol>
+<li><a href="#a1">Verantwortlicher</a></li>
+<li><a href="#a2">Grundsatz</a></li>
+<li><a href="#a3">Daten in der App</a></li>
+<li><a href="#a4">Netzwerkverbindung</a></li>
+<li><a href="#a5">Game Center</a></li>
+<li><a href="#a6">Diese Internetseite</a></li>
+<li><a href="#a7">Weitergabe an Dritte</a></li>
+<li><a href="#a8">Kinder</a></li>
+<li><a href="#a9">Rechte der betroffenen Personen</a></li>
+<li><a href="#a10">Beschwerderecht</a></li>
+<li><a href="#a11">Kontakt</a></li>
+</ol>
+</nav>
+
+<h2 id="a1">1. Verantwortlicher</h2>
+
+<p>Verantwortlicher im Sinne von Art. 4 Nr. 7 DSGVO ist:</p>
+
+<div class="anschrift">
+    Jonathan Braun<br>
+    Mendelssohnstrasse 22<br>
+    65817 Eppstein, Hessen<br>
+</div>
+
+<h2 id="a2">2. Grundsatz</h2>
+
+<p>
+    Der Anbieter von mathy erhebt keine personenbezogenen Daten. Die App führt kein
+    Benutzerkonto, verlangt keine Registrierung und enthält weder Werbung noch
+    Analyse-, Tracking- oder sonstige Bausteine von Drittanbietern.
+</p>
+
+<h2 id="a3">3. Daten in der App</h2>
+
+<p>
+    Zum Betrieb der App werden folgende Daten ausschließlich lokal auf dem Gerät
+    gespeichert: abgeschlossene Lektionen, XP, Serie, Abzeichen, Spielrekorde sowie
+    die Übungsstatistik der zurückliegenden Wochen. Die Speicherung erfolgt mit den
+    Bordmitteln von iOS im Speicherbereich der App.
+</p>
+
+<p>
+    Diese Daten dienen allein dazu, den Lernfortschritt innerhalb der App
+    darzustellen. Sie werden nicht an den Anbieter oder an Dritte übermittelt. Sie
+    sind in einem selbst angelegten Backup des Geräts enthalten.
+</p>
+
+<p>
+    <strong>Speicherdauer:</strong> so lange die App installiert ist. Über
+    „Einstellungen → Fortschritt zurücksetzen“ lassen sich die Daten jederzeit sofort
+    löschen; mit der Deinstallation werden sie vollständig vom Gerät entfernt.
+</p>
+
+<h2 id="a4">4. Netzwerkverbindung</h2>
+
+<p>
+    Üben, Spielen und der gesamte Fortschritt funktionieren ohne Internetverbindung.
+    Eine Verbindung wird ausschließlich für Game Center hergestellt und nur dann, wenn
+    sie durch eine ausdrückliche Eingabe ausgelöst wird.
+</p>
+
+<h2 id="a5">5. Game Center</h2>
+
+<p>
+    Die Nutzung von Game Center ist freiwillig. Erst nach der Anmeldung übermittelt die
+    App Punktestände und erreichte Erfolge an Apple; verwendet wird dabei der
+    Spielername, den der Nutzer bei Apple selbst festgelegt hat. Verantwortlich für
+    diese Verarbeitung ist Apple; es gilt die Datenschutzerklärung von Apple für Game
+    Center
+    (<a href="https://www.apple.com/legal/privacy/data/de/game-center/">apple.com/legal/privacy/data/de/game-center</a>).
+</p>
+
+<p>
+    Rechtsgrundlage ist die Einwilligung durch die ausdrückliche Anmeldung, Art. 6
+    Abs. 1 lit. a DSGVO. Die Verbindung lässt sich jederzeit über „Einstellungen → Game
+    Center → Trennen“ wieder lösen; danach übermittelt die App nichts mehr.
+</p>
+
+<p>
+    mathy speichert die Spielerkennung von Game Center nicht und gibt sie nicht weiter.
+    Eine Nachrichtenfunktion zwischen Spielern besteht nicht; eine Zusammenführung mit
+    unbekannten Personen findet nicht statt, Einladungen sind auf selbst gewählte
+    Freunde beschränkt.
+</p>
+
+<h2 id="a6">6. Diese Internetseite</h2>
+
+<p>
+    Die Seite wird bei GitHub Pages gehostet (GitHub, Inc., 88 Colin P. Kelly Jr.
+    Street, San Francisco, CA 94107, USA). Beim Aufruf verarbeitet GitHub technische
+    Verbindungsdaten, darunter die IP-Adresse, Datum und Uhrzeit, die aufgerufene Seite
+    sowie Browser- und Systemangaben. Das geschieht, damit die Seite überhaupt
+    ausgeliefert werden kann; Rechtsgrundlage ist das berechtigte Interesse am sicheren
+    Betrieb, Art. 6 Abs. 1 lit. f DSGVO. Dabei können Daten in die USA übertragen
+    werden. Der Anbieter dieser Seite hat auf diese Verarbeitung keinen Zugriff und
+    wertet sie nicht aus. Einzelheiten:
+    <a href="https://docs.github.com/privacy">docs.github.com/privacy</a>
+</p>
+
+<p>
+    Die Seite setzt keine Cookies, bindet keine Schriften, Bilder, Karten oder Videos
+    von Dritten ein und verwendet keine Analysewerkzeuge.
+</p>
+
+<h2 id="a7">7. Weitergabe an Dritte</h2>
+
+<p>Eine Weitergabe von Daten an Dritte durch den Anbieter findet nicht statt.</p>
+
+<h2 id="a8">8. Kinder</h2>
+
+<p>
+    Die App richtet sich auch an Kinder. Sie enthält aus diesem Grund keine Werbung,
+    keine Käufe innerhalb der App und keine Möglichkeit zur Kontaktaufnahme mit anderen
+    Personen.
+</p>
+
+<h2 id="a9">9. Rechte der betroffenen Personen</h2>
+
+<p>
+    Es bestehen das Recht auf Auskunft (Art. 15 DSGVO), auf Berichtigung (Art. 16), auf
+    Löschung (Art. 17), auf Einschränkung der Verarbeitung (Art. 18), auf
+    Datenübertragbarkeit (Art. 20) sowie das Widerspruchsrecht (Art. 21). Eine erteilte
+    Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen werden.
+</p>
+
+<p>
+    Da der Anbieter selbst keine personenbezogenen Daten speichert, laufen Auskunft und
+    Löschung bezogen auf die App ins Leere – die Daten liegen auf dem Gerät und lassen
+    sich dort selbst löschen. Für die über Game Center verarbeiteten Daten ist Apple
+    der richtige Ansprechpartner.
+</p>
+
+<h2 id="a10">10. Beschwerderecht</h2>
+
+<p>
+    Es besteht das Recht, sich bei einer Datenschutz-Aufsichtsbehörde zu beschweren,
+    insbesondere in dem Mitgliedstaat des Aufenthaltsorts, des Arbeitsplatzes oder des
+    Orts des mutmaßlichen Verstoßes (Art. 77 DSGVO). Eine Liste der deutschen
+    Aufsichtsbehörden steht unter
+    <a href="https://www.bfdi.bund.de/DE/Service/Anschriften/anschriften_node.html">bfdi.bund.de</a>.
+</p>
+
+<h2 id="a11">11. Kontakt</h2>
+
+<p>
+    Für Fragen zum Datenschutz:
+    <a href="mailto:starflightapp@gmail.com">starflightapp@gmail.com</a>
+</p>
+
+</div>
+</body>
+</html>
