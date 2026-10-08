@@ -1,1 +1,176 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>mathy – Support</title>
+<meta name="description" content="Support, häufige Fragen und Kontakt zur iPhone-App mathy.">
+<style>
+:root{color-scheme:light dark;--grund:#ECECF2;--flaeche:#FFF;--flaeche2:#DBDBE4;
+--text:#0B0B0F;--text2:#6B6B78;--rand:rgba(0,0,0,.09);--marke:#B07A00}
+@media (prefers-color-scheme:dark){:root{--grund:#0B0B0F;--flaeche:#17171E;
+--flaeche2:#22222B;--text:#FFF;--text2:#8D8D9A;--rand:rgba(255,255,255,.08);--marke:#FFD43B}}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;padding:0 20px 80px;background:var(--grund);color:var(--text);
+font:17px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+-webkit-font-smoothing:antialiased}
+.blatt{max-width:44rem;margin:0 auto}
+header{padding:72px 0 40px;border-bottom:1px solid var(--rand);margin-bottom:8px}
+.wortmarke{font-size:2.5rem;font-weight:800;letter-spacing:-.03em;margin:0}
+header p{color:var(--text2);margin:10px 0 0;font-size:1.05rem}
+h2{font-size:1.3rem;font-weight:700;letter-spacing:-.01em;margin:48px 0 16px}
+h3{font-size:1.02rem;font-weight:700;margin:0 0 6px}
+p,li{margin:0 0 14px}
+a{color:inherit;text-underline-offset:3px}
+dl{margin:0}
+dt{font-weight:700;margin:28px 0 6px}
+dd{margin:0 0 14px;color:var(--text)}
+.karte{background:var(--flaeche);border:1px solid var(--rand);border-radius:14px;
+padding:20px 24px;margin:0 0 16px}
+.karte p:last-child{margin-bottom:0}
+.leise{color:var(--text2);font-size:.95rem}
+.anschrift{background:var(--flaeche2);border-radius:12px;padding:16px 20px;
+margin:0 0 14px;line-height:1.6}
+.offen{background:#FFD43B;color:#0B0B0F;border-radius:4px;padding:1px 6px;font-weight:700}
+footer{margin-top:64px;padding-top:24px;border-top:1px solid var(--rand);
+color:var(--text2);font-size:.95rem;display:flex;gap:24px;flex-wrap:wrap}
+footer a{white-space:nowrap}
+@media (max-width:420px){body{font-size:16px;padding:0 16px 64px}
+header{padding-top:48px}.wortmarke{font-size:2.1rem}h2{font-size:1.2rem}
+.karte{padding:18px 18px}}
+</style>
+</head>
+<body>
+<div class="blatt">
 
+<header>
+    <p class="wortmarke">mathy</p>
+    <p>Support und Kontakt</p>
+</header>
+
+<p>
+    mathy ist eine Lern-App für Mathematik für das iPhone: ein Lehrplan aus 22 Einheiten
+    und 97 Lektionen, 27 Aufgabenthemen und neunzehn Spiele. Die App arbeitet ohne
+    Benutzerkonto, ohne Internetverbindung und ohne Werbung.
+</p>
+
+<h2>Kontakt</h2>
+
+<div class="karte">
+    <h3>E-Mail</h3>
+    <p><a href="mailto:starflightapp@gmail.com"></a></p>
+    <p class="leise">
+        Für eine zügige Bearbeitung von Fehlermeldungen sind folgende Angaben hilfreich:
+        Gerätemodell, installierte iOS-Version, betroffener Bereich der App sowie
+        nach Möglichkeit ein Bildschirmfoto.
+    </p>
+</div>
+
+<h2>Häufige Fragen</h2>
+
+<dl>
+
+<dt>Ist ein Benutzerkonto erforderlich?</dt>
+<dd>
+    Nein. Die App verlangt weder Registrierung noch Anmeldung. Der Lernstand wird
+    ausschließlich lokal auf dem Gerät gespeichert.
+</dd>
+
+<dt>Wird eine Internetverbindung benötigt?</dt>
+<dd>
+    Nein. Lehrplan, Training und sämtliche Spiele funktionieren vollständig offline.
+    Eine Verbindung wird allein für Game Center aufgebaut und nur dann, wenn sie durch
+    eine ausdrückliche Eingabe ausgelöst wird.
+</dd>
+
+<dt>Entstehen Kosten?</dt>
+<dd>
+    Nein. Die App ist kostenlos und enthält keine Käufe innerhalb der App, keine
+    Abonnements und keine Werbung.
+</dd>
+
+<dt>Ist die Nutzung von Game Center verpflichtend?</dt>
+<dd>
+    Nein. Sämtliche Inhalte außer den Bestenlisten stehen ohne Game Center zur
+    Verfügung. Nach einer Anmeldung sind Einladungen ausschließlich an selbst gewählte
+    Freunde möglich; eine Zusammenführung mit unbekannten Personen findet nicht statt,
+    eine Nachrichtenfunktion zwischen Spielern besteht nicht. Die Verbindung lässt sich
+    jederzeit unter <strong>Du → Einstellungen → Game Center → Trennen</strong> lösen.
+</dd>
+
+<dt>Wie lässt sich der Lernfortschritt zurücksetzen?</dt>
+<dd>
+    Unter <strong>Du → Einstellungen → Fortschritt zurücksetzen</strong>. Dabei werden
+    abgeschlossene Lektionen, XP, Serie, Abzeichen und Spielrekorde gelöscht. Der
+    Vorgang lässt sich nicht rückgängig machen. Unabhängig davon kann allein der
+    Einstufungstest über <strong>Einstufung wiederholen</strong> erneut durchlaufen
+    werden.
+</dd>
+
+<dt>Lassen sich Ton und Vibration abschalten?</dt>
+<dd>
+    Ja, getrennt voneinander unter <strong>Du → Einstellungen</strong> über die Schalter
+    <strong>Töne</strong> und <strong>Vibration</strong>. Der Stummschalter des Geräts
+    wird in jedem Fall beachtet; eine laufende Wiedergabe anderer Apps wird nicht
+    unterbrochen.
+</dd>
+
+<dt>Lässt sich die Darstellung umstellen?</dt>
+<dd>
+    Die App folgt standardmäßig der Systemeinstellung des Geräts. Unter
+    <strong>Du → Einstellungen → Darstellung</strong> kann stattdessen fest zwischen
+    Hell und Dunkel gewählt werden.
+</dd>
+
+<dt>Wird der Lernstand bei einem Gerätewechsel übernommen?</dt>
+<dd>
+    Ja, sofern ein Backup des Geräts eingespielt wird: Der Lernstand liegt im
+    Speicherbereich der App und ist in einem selbst angelegten Backup enthalten. Eine
+    Übertragung über ein Benutzerkonto ist nicht vorgesehen, da die App kein Konto führt.
+</dd>
+
+<dt>Welche Systemvoraussetzungen bestehen?</dt>
+<dd>
+    iOS 18 oder neuer. mathy ist eine iPhone-App.
+</dd>
+
+<dt>Für welche Altersgruppe ist die App geeignet?</dt>
+<dd>
+    Der Lehrplan reicht vom kleinen Einmaleins bis in die Oberstufe, etwa ab der dritten
+    Klasse. Ein Einstufungstest zu Beginn bestimmt den passenden Einstiegspunkt.
+</dd>
+
+<dt>Eine Aufgabe ist fehlerhaft gestellt oder falsch ausgewertet.</dt>
+<dd>
+    Solche Hinweise sind ausdrücklich erwünscht. Hilfreich ist ein Bildschirmfoto der
+    betreffenden Aufgabe zusammen mit der Angabe, welche Lösung erwartet wurde.
+</dd>
+
+</dl>
+
+<h2>Datenschutz</h2>
+
+<p>
+    Die App erhebt keine personenbezogenen Daten. Einzelheiten zur Verarbeitung,
+    zu Game Center und zu den Rechten betroffener Personen enthält die Datenschutzerklärung.
+</p>
+
+<h2>Impressum</h2>
+
+<p class="leise">Angaben gemäß § 5 DDG</p>
+
+<div class="anschrift">
+    Jonathan Braun<br>
+    Mendelssohnstrasse<br>
+    65817 Eppstein, Hessen<br>
+    <p><a href="mailto:starflightapp@gmail.com">starflightapp@gmail.com</a></p>
+</div>
+
+<p class="leise">
+    Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV: vorstehende Anschrift.
+</p>
+
+</div>
+</body>
+</html>
